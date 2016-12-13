@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LabSession">
+</Property><Property Name="Solution File" Value="T:\courses\MALIS\tp2\achille_arcelin\src\LabSession\LabSession.sln">
+</Property><Property Name="Date" Value="Monday, November 23, 2015">
+</Property><Property Name="Time" Value="8:57:12 AM">
+</Property></Properties><Event ErrorLevel="3" Project="LabSession" Source="LabSession.vcproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="2" Project="" Source="LabSession.vcxproj" Description="">
+</Event></UpgradeLog>
