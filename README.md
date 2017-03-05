@@ -33,6 +33,7 @@ Output layer:
 	Neuron 3: w13 = <0>
                   w23 = <-1>
                   b3 = <-0.5>
+		  
 Of course, it is your task to define the number of layers, the number of neurons per layer, and the exact values for the weights. 
 Part 2: Implementation of the MLP simulator<br>
 =======
