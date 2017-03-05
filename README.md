@@ -4,6 +4,7 @@ Machine Learning and Intelligent Systems - Fall 2016
 By Wentai CHEN and Di HUANG
 
 Source file is *src/LabSession.sln*, which is a project of visual studio written in c++
+Below are the guide and repuirements for this lab.
 Part 1: Design a neural network<br>
 =========
 Describe how you have computed the network architecture and weights. 
