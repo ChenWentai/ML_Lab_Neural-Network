@@ -1,7 +1,7 @@
-Intelligent Systems - Fall 2016
+#Intelligent Systems - Fall 2016#
 2nd Lab Session's Report
 By Student A and Student B
-Part 1: Design a neural network
+**Part 1: Design a neural network**
 Describe how you have computed the network architecture and weights. 
 You should describe the network according to the following format: 
 
@@ -18,7 +18,8 @@ Structure of the Neural Network:
  
 
 Of course, it is your task to define the number of layers, the number of neurons per layer, and the exact values for the weights. 
-Part 2: Implementation of the MLP simulator
+
+**Part 2: Implementation of the MLP simulator**
 Provide source code and explanations (comments) for both the feedforward() and backpropagation() procedure. 
 The feedforward function.
 //Computes the output of the MLP for a particular input pattern (pat)
@@ -125,7 +126,7 @@ void backpropagation(int pat)
 	}
 }
 
-Part 3: Training and Recall experiments
+**Part 3: Training and Recall experiments**
 Detail and comment all the experiments achieved: 
 •	Network training
       Programs running at the training mode,  MAXCYCLE = 100, RMS_ERROR_THRESHOLD = 0.01, which means the training will end at the 100th CYCLE or when rms_error less than or equal to 0.01.
