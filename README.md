@@ -11,6 +11,7 @@ Describe how you have computed the network architecture and weights.
 You should describe the network according to the following format: 
 
 Input layer:  2 units, x1   x2
+
 First hidden layer:
     2 neurons:
 	Neuron 1: w11 = <2>
@@ -19,6 +20,7 @@ First hidden layer:
 	Neuron 2: w12 = <1.1>
                   w22 = <-1>
                   b2 = <0>
+	
 	
 Output layer:
     3 neurons:
