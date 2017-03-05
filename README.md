@@ -1,9 +1,9 @@
 # Machine-Learning-Lab-Neural-Network
 Machine Learning and Intelligent Systems - Fall 2016
 2nd Lab Session's Report
-By Wentai Chen  and Di Huang
+By Wentai CHEN and Di HUANG
 
-Code is in src/LabSession.sln file, which is a project of visual studio written in c++
+Source file is src/LabSession.sln, which is a project of visual studio written in c++
 Part 1: Design a neural network<br>
 =========
 Describe how you have computed the network architecture and weights. 
